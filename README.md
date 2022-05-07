@@ -1,2 +1,2 @@
-# api
+# README
 API de Desenvolvimento Funcional.
